@@ -19,7 +19,7 @@ h1 {
     text-align: center;
     padding: 20px;
     padding-top: 40px;
-    font-size: 6vw;
+    font-size: 4em;
     font-variant: small-caps;
     font-family: Passion One;
 }
@@ -54,7 +54,6 @@ a:hover {
     background-position: right center;
     background-attachment: fixed;
     padding: 40px 20px;
-    background-size: cover;
     box-shadow: inset 6px 6px 13px 0px black;
 
 }
@@ -65,7 +64,6 @@ a:hover {
     background-position: right center;
     background-attachment: fixed;
     padding: 40px 20px;
-    background-size: cover;
     box-shadow: inset 6px 6px 13px 0px black;
 
 }
